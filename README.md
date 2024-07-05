@@ -6,12 +6,12 @@ This repository contains my work and projects completed during the CodSoft Inter
 
 - **Internship Duration:** June 25, 2024 – July 25, 2024
 - **Tasks:** Includes tasks and projects in AI, Web Development, and more.
-- **GitHub Repository:** [Link to this repository]
+- **GitHub Repository:** https://github.com/HarisrujanYakkaluru/CODSOFT.git
 
 ## Projects
 
 - **Project 1:** Tic Tac Toe Game
-- **Project 2:** Brief description or link to project files.
+- **Project 2:** Face Detection and Recognition
 - **Project 3:** Brief description or link to project files.
 
 ## Contributions
@@ -30,4 +30,4 @@ For any questions or collaborations related to this repository, feel free to con
 
 ---
 
-Feel free to explore and provide feedback! 🚀
+Feel free to explore and provide feedback! 🚀# CODSOFT
