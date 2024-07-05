@@ -65,7 +65,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - This project was inspired by classic Tic Tac Toe games.
 - The Tkinter library documentation and community provided valuable resources for building this application.
-
-# Tic-Tac-Toe-Ai
-# Tic-Tac-Toe-Ai
-# Tic-Tac-Toe-Ai
