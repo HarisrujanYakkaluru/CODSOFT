@@ -12,7 +12,7 @@ This repository contains my work and projects completed during the CodSoft Inter
 
 - **Project 1:** Tic Tac Toe Game
 - **Project 2:** Face Detection and Recognition
-- **Project 3:** Brief description or link to project files.
+- **Project 3:** Image Captioning
 
 ## Contributions
 
@@ -30,4 +30,8 @@ For any questions or collaborations related to this repository, feel free to con
 
 ---
 
-Feel free to explore and provide feedback! 🚀# CODSOFT
+Feel free to explore and provide feedback! 🚀
+# CODSOFT
+# CODSOFT
+# CODSOFT
+# CODSOFT
