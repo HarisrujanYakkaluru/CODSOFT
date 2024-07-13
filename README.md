@@ -31,7 +31,3 @@ For any questions or collaborations related to this repository, feel free to con
 ---
 
 Feel free to explore and provide feedback! 🚀
-# CODSOFT
-# CODSOFT
-# CODSOFT
-# CODSOFT
